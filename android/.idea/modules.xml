@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1233246029/android.razorpay_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1233246029/android.razorpay_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1234965080/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/1234965080/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1450315876/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1450315876/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1525509233/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1525509233/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1252448290/android.video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1252448290/android.video_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/995069388/android.wakelock.iml" filepath="$PROJECT_DIR$/.idea/modules/995069388/android.wakelock.iml" />
+    </modules>
+  </component>
+</project>
